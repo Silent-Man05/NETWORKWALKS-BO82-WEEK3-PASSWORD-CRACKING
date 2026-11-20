@@ -131,10 +131,17 @@ nw{networkwalks_persistence_jtr_270521}
 
 ## 8. Conclusion
 
-This week showed, hands-on, how a password-protected PDF's hash can be extracted and then cracked — first with an installed tool (John the Ripper/Johnny), then with simple browser-based tools (NetworkWalks Hash Calculator and Password Cracker). Both approaches recovered the password quickly because the passwords used were weak, which is the main lesson of the lab: password strength, not just the existence of a password, determines how protected a file really is.
+This week showed, hands-on, how a password-protected PDF's hash can be extracted and then cracked — first with an installed tool (John the Ripper/Johnny), then with simple browser-based tools (NetworkWalks Hash Calculator and Password Cracker). Both approaches recovered the password quickly because the passwords used were weak, which is the main lesson of the lab: 
+password strength, not just the existence of a password, determines how protected a file really is.
 
 ## 9. Tools used
 
 OnlineHashCrack (PDF Hash Extractor), John the Ripper, Johnny GUI, NetworkWalks Hash Calculator, NetworkWalks Password Cracker.
 
 *Educational use only. Passwords were cracked only for practice files provided for this course, with instructor permission.*
+
+## 10. LinkedIn post
+
+A short post sharing this Week 3 password cracking lab (W3-PM1 & W3-PM2):
+
+🔗 [View my LinkedIn post](https://lnkd.in/p/dRwQXYrG)
